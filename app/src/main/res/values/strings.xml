@@ -2,4 +2,5 @@
     <string name="app_name">Komunikator</string>
     <string name="send">Wyślij wiadomość</string>
     <string name="receivedText"></string>
+    <string name="chooser">Wysylanie wiadomości</string>
 </resources>
